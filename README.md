@@ -18,7 +18,7 @@ Unveil the gaming world's best-kept secrets with our PHP script designed for Fre
 ## How to Use:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/NepDevs/FreeFire-UID-to-Name-Finder.git
+   git clone https://github.com/Nepcoder1/FreeFire-UID-to-Name-Finder.git
    ```
 
 2. **Set Up Your Environment:**
